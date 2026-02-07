@@ -123,3 +123,16 @@ Eine Vervielfältigung oder Weitergabe
 ist nur mit ausdrücklicher Zustimmung gestattet.
 
 ---
+
+## Veröffentlichungsstatus
+
+Diese Website dient der Information
+und der Vorstellung von Software und Haltung.
+
+Es findet derzeit keine aktive Vermarktung statt.
+Kein Zahlungsverkehr,
+keine automatisierte Kundengewinnung.
+
+Veröffentlichung erfolgt bewusst
+und ohne zeitlichen Druck.
+
