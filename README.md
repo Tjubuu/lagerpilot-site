@@ -34,6 +34,25 @@ wenn das Internet keine Rolle spielt.
 
 Im Mittelpunkt stehen klare Abläufe, stabile Daten und ein ruhiger Arbeitsfluss.
 
+Dazu gehören Ausdrucke und PDF Dateien,
+zum Beispiel für Bestandslisten und Rechnungen.
+
+---
+
+## Drucken und PDF
+
+Papier ist im Lageralltag oft weiterhin notwendig.
+LagerPilot bietet daher Funktionen,
+um zentrale Informationen druckbar zu machen.
+
+Beispiele:
+
+- Bestandslisten für Ablage oder Inventur
+- Rechnungen als PDF und zum Ausdrucken
+
+Die Ausgabe erfolgt lokal.
+Es werden keine Dokumente automatisch an Dritte übertragen.
+
 ---
 
 ## Nutzung und Lizenz
@@ -58,6 +77,10 @@ Es stehen zwei Lizenzlaufzeiten zur Verfügung:
 
 LagerPilot setzt bewusst auf Fairness und Eigenverantwortung.
 Nach Ablauf einer Lizenz wechselt die Software in einen Nur-Lesen-Modus.
+
+Auch im Nur-Lesen-Modus bleiben bestehende Daten sichtbar
+und können weiterhin dokumentiert werden,
+zum Beispiel durch Ausdruck oder PDF.
 
 Bestehende Daten bleiben sichtbar,
 es können jedoch keine Änderungen mehr vorgenommen werden.
