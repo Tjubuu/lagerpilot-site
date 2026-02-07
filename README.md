@@ -38,36 +38,30 @@ Im Mittelpunkt stehen klare Abläufe, stabile Daten und ein ruhiger Arbeitsfluss
 
 ## Nutzung und Lizenz
 
-LagerPilot kann 30 Tage kostenlos mit Support genutzt werden.
-In dieser Zeit steht der volle Funktionsumfang zur Verfügung.
+LagerPilot kann 30 Tage kostenlos genutzt werden.
+In dieser Phase ist Support enthalten.
 
-Nach Ablauf der 30 Tage gibt es folgende Möglichkeiten:
+Nach Ablauf der 30 Tage ist die Nutzung nur noch mit Lizenz möglich.
+Es gibt zwei Laufzeiten:
 
----
+### Lizenz 6 Monate
 
-### Nutzung ohne Support
+- Nutzung für 6 Monate ab Aktivierung
+- Support während der Laufzeit enthalten
 
-Die Software kann weiterhin genutzt werden.
-Dazu ist ein einmaliger Kauf der Software erforderlich.
+### Lizenz 12 Monate
 
-- unbegrenzte Nutzung
-- keine laufenden Kosten
-- kein Support, keine Updates
+- Nutzung für 12 Monate ab Aktivierung
+- Support während der Laufzeit enthalten
 
----
+### Erinnerung vor Ablauf
 
-### Nutzung mit Support
+LagerPilot erinnert 30 Tage vor Ablauf an die Verlängerung.
+Die Erinnerung ist sichtbar im Programm.
 
-Alternativ kann LagerPilot mit Support genutzt werden.
-Hierfür ist zusätzlich zum einmaligen Kauf eine Jahreslizenz erforderlich.
-
-- Unterstützung bei Fragen und Problemen
-- Updates und Weiterentwicklung
-- begleitende Hilfe bei Bedarf
-
-In allen Fällen bleibt die Software lokal nutzbar.
-Es gibt keine automatische Verbindung nach außen
-und keinen versteckten Zugriff.
+Eine Benachrichtigung an richard_IT per E Mail erfolgt nur,
+wenn der Nutzer dies ausdrücklich aktiviert und bestätigt.
+Dabei werden nur die dafür notwendigen Informationen übertragen.
 
 ---
 
@@ -81,6 +75,11 @@ Datenschutz ist für richard_IT kein Zusatz, sondern Grundhaltung.
 - keine Weitergabe von Daten
 
 Es werden nur die Daten verarbeitet, die für die Nutzung der Software notwendig sind.
+
+Lizenzfunktionen arbeiten standardmäßig lokal.
+Wenn der Nutzer eine E Mail Benachrichtigung aktiviert,
+werden nur notwendige Daten übertragen.
+Ohne Aktivierung findet keine Übertragung statt.
 
 ---
 
