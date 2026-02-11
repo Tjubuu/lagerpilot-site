@@ -15,7 +15,7 @@ Ich melde mich zeitnah zurück.
 
 ## E-Mail
 
-[Hier Ihre E-Mail-Adresse einfügen]
+richard_it@eclipso.de
 
 ---
 
