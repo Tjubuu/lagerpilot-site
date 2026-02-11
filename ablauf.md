@@ -4,8 +4,6 @@
 
 [← Zur Startseite](index.md)
 
----
-
 Ordnung entlastet. Deshalb arbeiten wir in klaren Schritten.
 
 ## 1. Erstgespräch
