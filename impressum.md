@@ -1,7 +1,7 @@
 # Impressum
 
 [Startseite](index.md) , [Datenschutz](datenschutz.md)
-
+---
 
 richard_IT  
 Thorsten Richarz  
@@ -11,3 +11,4 @@ Deutschland
 E-Mail:  
 richard_it@eclipso.de
 
+---
