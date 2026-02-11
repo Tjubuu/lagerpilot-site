@@ -9,32 +9,49 @@ Ordnung in Software. Ruhe im System.
 
 ---
 
-richard_IT steht für ruhige, nachvollziehbare IT-Lösungen.  
-Ohne Cloud-Zwang, ohne Tracking, ohne unnötige Komplexität.
+## Ordnung in Software. Ruhe im System.
 
-Software und Unterstützung folgen hier einem einfachen Gedanken:  
-**Ordnung entlastet.**
+Digitale Strukturen wachsen oft schneller,
+als sie verstanden werden.
 
----
+Dateien, Tools, Prozesse – alles funktioniert,
+aber es kostet Kraft.
 
-## Wofür richard_IT steht
+Ich unterstütze dabei, digitale Arbeitsweisen
+wieder klar und tragfähig zu gestalten.
 
-Viele IT-Lösungen erzeugen Abhängigkeit und unnötige Komplexität.  
-richard_IT verfolgt einen anderen Ansatz.
-
-Im Mittelpunkt stehen Verständlichkeit, lokale Kontrolle und stabile Abläufe.  
-Technik soll unterstützen, nicht dominieren.
+Nicht durch mehr Komplexität.
+Sondern durch Reduktion auf das Wesentliche.
 
 ---
 
-## LagerPilot
+### Beratung zuerst
 
-LagerPilot ist eine lokal installierbare Software zur Lager- und Bestandsverwaltung.
+Im Mittelpunkt steht nicht ein Tool,
+sondern Ihre Arbeitsweise.
 
-Sie richtet sich an Menschen und kleine Betriebe, die ihre Daten selbst behalten  
-und ohne permanente Internetverbindung arbeiten möchten.
+Struktur entsteht durch Klarheit,
+nicht durch Software allein.
 
-LagerPilot läuft lokal, speichert lokal und bleibt auch dann nutzbar,  
-wenn das Internet keine Rolle spielt.
+[Mehr zur Beratung](beratung.md)
 
-Im Mittelpunkt stehen klare Abläufe, stabile Daten und ein ruhiger Arbeitsfluss.
+---
+
+### Werkzeuge aus der Praxis
+
+Manche Lösungen entstehen aus der Arbeit selbst.
+
+Ein Beispiel ist LagerPilot –
+eine ruhige, lokale Waren und Lager Verwaltung.
+
+[Zu den Projekten](projekte.md)
+
+---
+
+### Kontakt
+
+Wenn Sie Ihre digitale Struktur
+neu ordnen möchten, schreiben Sie mir.
+
+[Kontakt aufnehmen](kontakt.md)
+
