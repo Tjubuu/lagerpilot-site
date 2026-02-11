@@ -20,3 +20,5 @@ Keine Dauerbaustelle.
 ## 4. Follow up
 Nach ein bis zwei Wochen prüfen wir, was hält.
 Wir justieren nach, dokumentieren, und stabilisieren den Zustand.
+
+---
