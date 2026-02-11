@@ -15,6 +15,10 @@ Ich melde mich zeitnah zurück.
 
 ## E-Mail
 
+Thorsten Richarz  
+Ratingen  
+
+
 richard_it@eclipso.de
 
 ---
