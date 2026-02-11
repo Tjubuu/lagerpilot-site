@@ -5,6 +5,8 @@
 
 # richard_IT
 
+---
+
 Ordnung in Software. Ruhe im System.
 
 [Beratung](beratung.md) · [Ablauf](ablauf.md) · [Remote](remote.md) · [Projekte](projekte.md) · [Kontakt](kontakt.md) · [Datenschutz](datenschutz.md) · [Impressum](impressum.md)
