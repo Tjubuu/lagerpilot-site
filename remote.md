@@ -4,8 +4,6 @@
 
 [← Zur Startseite](index.md)
 
----
-
 Remote Zugriff ist ein Werkzeug zur Hilfeleistung.
 Er erfolgt nur auf Einladung, zeitlich begrenzt, und transparent.
 
