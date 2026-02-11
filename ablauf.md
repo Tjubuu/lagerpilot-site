@@ -2,13 +2,13 @@
 
 Ordnung entlastet. Deshalb arbeiten wir in klaren Schritten.
 
-## 1. Erstgespraech
+## 1. Erstgespräch
 Dauer: 30 Minuten. Kostenlos. Ziel ist Orientierung.
 Wir klären, was aktuell drückt, was schon versucht wurde, und was realistisch ist.
 
 ## 2. Struktur Analyse
 Wir machen sichtbar, wo Zeit verloren geht.
-Wir sortieren Ziele, Systeme, Daten, Zugaenge, Verantwortlichkeiten.
+Wir sortieren Ziele, Systeme, Daten, Zugänge, Verantwortlichkeiten.
 Ergebnis ist eine kurze, nachvollziehbare Prioritätenliste.
 
 ## 3. Umsetzung
